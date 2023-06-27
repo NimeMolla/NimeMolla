@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on REDUX | FULL STACK [MERN] | DEVOPS<br><br>🌱 I’m currently looking to land a Job as a FULL STACK DEVELOPER [MERN]<br><br>👯 I’m looking to collaborate on REDUX | FULL STACK [MERN] | DEVOPS<br><br>👨‍💻 All of my projects are available at Repositories<br><br>💬 Ask me about Linux, Git, Docker, Docker-Compose, Kubernetes, Jenkins, AWS, Terraform, Ansible, Prometheus, DSA and Leetcode<br><br>📫 How to reach me nimemolla149135@gmail.com<br><br>📄 Know about my experiences Portfolio
+🔭 I’m currently working on Freelance Web-Scraping | FULL STACK [MERN] | Automation<br><br>🌱 I’m currently looking to land a Job as a FULL STACK DEVELOPER <br><br>👯 I’m looking to collaborate on REDUX | FULL STACK [MERN] | DEVOPS<br><br>👨‍💻 All of my projects are available at Repositories<br><br>💬 Ask me about Linux, Git, Docker, Docker-Compose, Kubernetes, Jenkins, AWS, Terraform, Ansible, Prometheus, DSA and Leetcode<br><br>📫 How to reach me nimemolla149135@gmail.com<br><br>📄 Know about my experiences Portfolio
 
 
 ## 🌐 Socials:
