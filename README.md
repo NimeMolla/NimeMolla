@@ -1,3 +1,8 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Nime Molla Shuvo</h1>
+<h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 # 💫 About Me:
 🔭 I’m currently working on Freelance Web-Scraping | FULL STACK [MERN] | Automation<br><br>🌱 I’m currently looking to land a Job as a FULL STACK DEVELOPER <br><br>👯 I’m looking to collaborate on REDUX | FULL STACK [MERN] | DEVOPS<br><br>👨‍💻 All of my projects are available at Repositories<br><br>💬 Ask me about Linux, Git, Docker, Docker-Compose, Kubernetes, Jenkins, AWS, Terraform, Ansible, Prometheus, DSA and Leetcode<br><br>📫 How to reach me nimemolla149135@gmail.com<br><br>📄 Know about my experiences Portfolio
 
