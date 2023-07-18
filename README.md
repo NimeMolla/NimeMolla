@@ -63,9 +63,10 @@
     
 </details>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=NimeMolla&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+<details>
+  <summary style="font-size:20px">🏆 GitHub Trophies</summary>
+    <img src="https://github-profile-trophy.vercel.app/?username=NimeMolla&theme=monokai&no-frame=true&no-bg=true&margin-w=4">
+</details>
 
 ### ✍️ Random Dev Quote
 
