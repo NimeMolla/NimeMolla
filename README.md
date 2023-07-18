@@ -13,6 +13,8 @@
 
 <p style="font-size:16px">As a software engineer, I enjoy using my obsessive attention to details,my uniquivocal love for making thing that change the world.That's why I like to make things that make a difference.</p>
 
+<br>
+
 <img align="right" alt="GIF" src="./img/coding.gif" width="400" height="310" />
 
 <h3 style="text-decoration: underline;text-underline-offset: 8px; text-decoration-color:#c15000; font-size:20px" >Talking about Personal Stuffs<span style="color:#c15000"> :</span></h3>
