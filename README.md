@@ -25,7 +25,7 @@
 
 👯 I’m looking to collaborate on open source projects.
 
-🥅 2023 Goals: Learn about web3
+🥅 2025 Goals: Learn about web3
 
 💬 Ask me about Selenium-Python, Laravel-PHP, React JS, Git , etc.
 
